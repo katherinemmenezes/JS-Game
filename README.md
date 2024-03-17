@@ -1,5 +1,4 @@
-#JS-GAME
-  #Tecnologia Usadas:
+  # Tecnologia Usadas:
   <ul>
   <li>HTML</li>
   <li>CSS</li>
